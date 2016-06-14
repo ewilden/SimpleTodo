@@ -4,7 +4,7 @@
 
 Submitted by: **Evan Wildenhain**
 
-Time spent: **3** hours spent in total
+Time spent: **3** hours spent in total, although much of that was simultaneous to dealing with setting up Android Studio, the JDK, emulators, etc. 
 
 ## User Stories
 
