@@ -44,7 +44,7 @@ want (Android Studio's auto-complete was frequently useful).
 
 ## License
 
-    Copyright [2016] [Evan Wildenhain]
+    Copyright 2016 Evan Wildenhain
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
